@@ -49,7 +49,7 @@ def clear_fields():
     global map_url
     map_url = ""
 
-key = 'c97ff8b0464b4ce4bc83930962bcf491'
+key = '***'
 map_url = ""
 
 window = Tk()
